@@ -24,7 +24,7 @@ Aplicación desarrollada con **React + TypeScript + TailwindCSS + Vite** que per
 
 ## 📦 Instalación
 # Clona el repositorio
-git clone https://github.com/CXarlosss/calculador_propinas.git
+git clone [https://github.com/CXarlosss/calculador_propinas.git](https://github.com/CXarlosss/calculador-propinas)
 cd calculadora_propinas
 
 # Instala las dependencias
