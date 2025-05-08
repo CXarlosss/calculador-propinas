@@ -1,5 +1,5 @@
 import { useCallback } from "react"
-import { OrderItem } from "../types"
+import type { OrderItem } from "../types"
 import { formatCurrency } from "../helpers"
 
 type OrderTotalsProps = {
