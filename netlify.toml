@@ -1,0 +1,3 @@
+[build]
+  publish = "dist" # La carpeta donde Vite coloca los archivos construidos
+  command = "npm run build" # El comando para construir el proyecto
